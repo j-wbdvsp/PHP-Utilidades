@@ -1,7 +1,9 @@
 <?php
+namespace Utilidades\MySQL;
+
 /**
  * Clase SyncTriggers para sincronizar disparadores entre dos bases de datos.
- * @package Utilidades/MySQL
+ * @package Utilidades\MySQL
  * @author  Juan Angulo <juan@webdevspain.com>
  * @version 1.0
  */
